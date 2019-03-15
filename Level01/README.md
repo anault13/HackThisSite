@@ -17,4 +17,5 @@ This mission can be found [here](https://www.hackthissite.org/missions/prog/1/) 
 >  * nkxleee  
 >  * iedsnn
 
-It's important to note that no two words in the wordlist are anagrams of each other (e.g. (tab,bat), (race,care), etc.).
+It's important to note that no two words in the wordlist are anagrams of each other (e.g. (tab,bat), (race,care), etc.).  
+[Here](level01.cpp) is the code for solving this problem in general with the given wordlist.
